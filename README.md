@@ -25,11 +25,6 @@ A SwiftUI-based iOS application that provides real-time weather updates, forecas
 
 ---
 
-## Screenshots 📸  
-*Include screenshots of the app showcasing its main features like the weather view, forecast view, and tourist map view.*
-
----
-
 ## Technologies Used 🛠️  
 - **Swift 5.7+**  
 - **SwiftUI**  
